@@ -18,12 +18,13 @@
 | 6 | [@LifeGamesxBot](http://t.me/LifeGamesxBot?start=start) | Telegram Games Bot | Online 🟢 |
 | 7 | [@FileStorexRobot](http://t.me/FileStorexRobot?start=start) | Telegram File Store/Share Bot | Online 🟢 |
 | 8 | [@LineStickerxBot](http://t.me/LineStickerxBot?start=start) | LINE/Kakaotalk Stickers Import Bot |  Online 🟢 | 
+| 9 | [@AnimeRequestxBot](https://t.me/AnimeRequestxBot?start=start) | Anime Request For Downloading & Streaming Bot | Online 🟢 |
 
 | • | Private | Bots | • |
 | :--: | :------: | :---------: | :----: |
 | S.no | Username | Description | Status |
-| 9 | [@LisaXRobot](http://t.me/LisaXRobot?start=start) | Support/Assistant Bot | Online 🟢 |
-| 10 | [@KellyXRobot](http://t.me/KellyXRobot?start=start) | Support/Assistant Bot | Online 🟢 |
-| 11 | [@MaximXRobot](http://t.me/MaximXRobot?start=start) | Personal Info. Bot | Online 🟢 |
+| 1 | [@LisaXRobot](http://t.me/LisaXRobot?start=start) | Support/Assistant Bot | Online 🟢 |
+| 2 | [@KellyXRobot](http://t.me/KellyXRobot?start=start) | Support/Assistant Bot | Online 🟢 |
+| 3 | [@MaximXRobot](http://t.me/MaximXRobot?start=start) | Personal Info. Bot | Online 🟢 |
 
 
